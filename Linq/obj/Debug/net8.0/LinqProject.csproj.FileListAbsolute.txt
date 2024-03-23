@@ -1,0 +1,14 @@
+C:\Users\em124\OneDrive\Desktop\Linq\Linq\bin\Debug\net8.0\LinqProject.exe
+C:\Users\em124\OneDrive\Desktop\Linq\Linq\bin\Debug\net8.0\LinqProject.deps.json
+C:\Users\em124\OneDrive\Desktop\Linq\Linq\bin\Debug\net8.0\LinqProject.runtimeconfig.json
+C:\Users\em124\OneDrive\Desktop\Linq\Linq\bin\Debug\net8.0\LinqProject.dll
+C:\Users\em124\OneDrive\Desktop\Linq\Linq\bin\Debug\net8.0\LinqProject.pdb
+C:\Users\em124\OneDrive\Desktop\Linq\Linq\obj\Debug\net8.0\LinqProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\em124\OneDrive\Desktop\Linq\Linq\obj\Debug\net8.0\LinqProject.AssemblyInfoInputs.cache
+C:\Users\em124\OneDrive\Desktop\Linq\Linq\obj\Debug\net8.0\LinqProject.AssemblyInfo.cs
+C:\Users\em124\OneDrive\Desktop\Linq\Linq\obj\Debug\net8.0\LinqProject.csproj.CoreCompileInputs.cache
+C:\Users\em124\OneDrive\Desktop\Linq\Linq\obj\Debug\net8.0\LinqProject.dll
+C:\Users\em124\OneDrive\Desktop\Linq\Linq\obj\Debug\net8.0\refint\LinqProject.dll
+C:\Users\em124\OneDrive\Desktop\Linq\Linq\obj\Debug\net8.0\LinqProject.pdb
+C:\Users\em124\OneDrive\Desktop\Linq\Linq\obj\Debug\net8.0\LinqProject.genruntimeconfig.cache
+C:\Users\em124\OneDrive\Desktop\Linq\Linq\obj\Debug\net8.0\ref\LinqProject.dll
